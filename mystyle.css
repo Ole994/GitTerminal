@@ -1,0 +1,16 @@
+body{
+    background-color: greenyellow
+}
+h1{
+    text-align: center;
+}
+.terminal-pic-1{
+    width: 500px;
+ 
+}
+
+.move-pic{
+    display: flex;
+    justify-content: center;
+}
+
